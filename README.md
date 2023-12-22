@@ -1,1 +1,1 @@
-# ComputerVision_HandDetectionAndSegmentation
+# CopmuterVision_DetectionSegmentation
