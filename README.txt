@@ -3,6 +3,8 @@ Edoardo Bastianello, ID 2053077
 Stefano Binotto, ID 2052421
 Gabriele Boscarini, ID 2063145
 
+At the top of each script file you can find the author of that specific file.
+
 *********************************************************************************************
 STRUCTURE OF THE DIRECTORIES:
 - "src": it contains the code.
