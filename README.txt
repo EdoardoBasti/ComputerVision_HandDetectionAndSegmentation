@@ -6,13 +6,16 @@ Gabriele Boscarini, ID 2063145
 At the top of each script file you can find the author of that specific file.
 
 *********************************************************************************************
+Project description:
+The project consists on object detection and segmentation of the hands in an image.
+
+*********************************************************************************************
 STRUCTURE OF THE DIRECTORIES:
 - "src": it contains the code.
 - "train_model": it contains the python script used to train the model (YOLOv5) , the .ipynb notebook version of the training, and 2 .yaml configuration file.
 - the root directory contains: the report, the CMakeLists.txt and it also contain the the neural network model (.onnx format) if this is the version uploaded on the cloud.
 
 Note: the trained model is the file "best.onnx"
-
 
 *********************************************************************************************
 The name of the executable obtained with CMake will be "project_hands".
